@@ -9,3 +9,46 @@ repository? What value do you think it offers?
 
 It adds precision and a lot more control when doing commits. 
 It acts as a failsafe when comitting to avoid exceptions. 
+
+
+How can you use the staging area to make sure you have one commit
+per logical change?
+
+It lets you review your code quickly before comitting to make sure
+what you are about to upload into the repo is what you want. 
+
+It also makes everything be more precise.
+
+
+What are some situations when branches would be helpful in keeping
+your history organized?
+branches help?
+
+When you would like to experiment with need code, without worrying
+about affecting production. 
+
+Branches help so you could view and try new things on the fly and
+potentially merging it when an idea matures.
+
+
+How do the diagrams help you visualize the branch structure?
+
+It is a clean and cut way to map out reachable and unreachable 
+commits. It also helps while traversing to remember where you are
+headed and where you are positioned in terms of the repo.
+
+
+What is the result of merging two branches together? Why do we 
+represent it in the diagram the way we do?
+
+It combines two branches and produces a new master.
+The diagram serves to remind us of how the several branches are
+organized and what commits will merge.
+
+
+What are the pros and cons of Git's automatic merging vs. always
+doing merges manually?
+
+Fast and can visualise the changes pretty quickly and understandably.
+Cons is when thing go sour and it is pretty limited in terms of the 
+actual conflict as far as diagnosis goes.
