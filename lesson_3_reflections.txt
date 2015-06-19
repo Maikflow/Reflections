@@ -49,4 +49,5 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    When you are creating a pull request, you want to modify a remote repository
+    by creating a branch with your new feature or something of the sort.
